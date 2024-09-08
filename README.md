@@ -37,7 +37,7 @@ Users should be able to:
 ## Screenshot
 
 
-
+![Alt text](design/main.png)
 
 ## My process
 
